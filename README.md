@@ -1,8 +1,5 @@
 
 
----
-
-```markdown
 # 🌌 Solar System Simulation using C++ and graphics.h
 
 This is a simple solar system simulation built using C++ and the `graphics.h` library. The simulation shows the sun and planets orbiting around it, with basic animations and visuals, including a comet and stars.
